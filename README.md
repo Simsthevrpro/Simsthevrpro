@@ -1,8 +1,7 @@
 - 👋 Hi, I’m TheHeadphonesareneed
 - 👀 I’m interested in game creation 
 - 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me discord
+- 💞️ I’m looking to collaborate on a mod menu
 - 😄 Pronouns: does it matter?
 - ⚡ Fun fact:monkey are brown
 
